@@ -1,0 +1,6 @@
+HW5-document1.txt
+HW5-alice.txt
+HW5-essay23.txt
+HW5-document12.txt
+HW5-barbaraHeld.txt
+HW5-file39.txt
